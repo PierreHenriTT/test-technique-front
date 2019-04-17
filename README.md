@@ -20,12 +20,12 @@ Description du slider :
 (voir images pour design)
 
 ## Techno :
-Le slider est a réaliser avec React.js.
+Le slider est à réaliser avec React.js.
 L'intégration se fera avec au choix : Sass ou styled-component.
 
 ## Spécificités :
 ### slider
-* On ne peut accéder à la prochaine slide que si nous avons sélectionné une valeur à la question de la slide
+* On ne peut accéder à la prochaine slide que si nous avons sélectionné une valeur à la question de la slide précédente
 * Si on retourne à une slide précédente la valeur déjà entrée précédemment est sélectionnée/entrée et non pas vide
 
 ### bouton
